@@ -22,7 +22,7 @@ Robot Photographs
 
 Complete robot
 
-"Robot overview" (assets/images/robot-overview.jpg)
+![Robot overview](assets/images/robot_full.jpg)
 
 Electronics and wiring
 
