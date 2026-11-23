@@ -14,7 +14,7 @@ Media and Development
 
 Robot Demonstration
 
-A demonstration of the robot operating autonomously, detecting obstacles and navigating around them.
+A demonstration of the robot operating autonomously.
 
 "Watch the robot demonstration" (INSERT_VIDEO_LINK_HERE)
 
