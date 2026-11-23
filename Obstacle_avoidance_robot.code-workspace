@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Downloads/Marlin-bugfix-2.1.x/Marlin-bugfix-2.1.x"
+		},
+		{
+			"name": "PID_library_tweak",
+			"path": "../../PID_library_tweak"
+		},
+		{
+			"name": "test",
+			"path": "../../test"
+		},
+		{
+			"name": "distanceSensorServo_test",
+			"path": "../../distanceSensorServo_test"
+		},
+		{
+			"name": "PID_test",
+			"path": "../../PID_test"
+		},
+		{
+			"name": "obstacleAvoidance_V1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
