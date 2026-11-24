@@ -16,7 +16,7 @@ Robot Demonstration
 
 A demonstration of the robot operating autonomously.
 
-"Watch the robot demonstration" (INSERT_VIDEO_LINK_HERE)
+"Watch the robot demonstration" ([INSERT_VIDEO_LINK_HERE](https://youtube.com/shorts/CwHAY0MO3Es?is=mFj3LBTm963mT-HM))
 
 Robot Photographs
 
